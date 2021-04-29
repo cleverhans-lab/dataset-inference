@@ -9,7 +9,7 @@ The instructions for reproducing the results can be found below.
 ## Dependencies
 The repository is written using `python 3.8`. To install dependencies run the command:
 
-`pip install -r requirements.txt` (TODO)
+`pip install -r requirements.txt`
 
 ## Resolving Ownership
 If you already have the extracted featured for the victim and potentially stolen models, you can proceed to inferring potential theft. A sample `jupyter notebook` to perform the same can be found at:
